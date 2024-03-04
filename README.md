@@ -2,3 +2,4 @@
 
 This is a bot for the Telegram messenger, developed using the Neo4j graph database and the aiogram2 library.
 Commit on March 4, 2024 was made to add a README file and to little refactor 
+PS. Used python 3.8
